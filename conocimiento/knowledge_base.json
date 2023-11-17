@@ -1,0 +1,46 @@
+{
+    "preguntas": [
+      {
+        "texto": "¿Dónde se encuentra ubicado el Instituto Certus?",
+        "respuesta": "El Instituto Certus tiene varias sedes en diferentes ciudades."
+      },
+      {
+        "texto": "¿Cuáles son los programas académicos que ofrece el Instituto Certus?",
+        "respuesta": "Ofrece programas en diversas áreas, incluyendo tecnología, negocios y más."
+      },
+      {
+        "texto": "¿Cuál es la duración típica de un programa de estudio en Certus?",
+        "respuesta": "La duración varía según el programa, pero suele ser de varios meses a varios años."
+      },
+      {
+        "texto": "¿Cómo puedo solicitar información sobre admisión?",
+        "respuesta": "Puedes obtener información de admisión en el sitio web de Certus o contactando a la institución."
+      },
+      {
+        "texto": "¿Cuál es el proceso de admisión en Certus?",
+        "respuesta": "El proceso de admisión puede incluir la presentación de documentos y entrevistas."
+      },
+      {
+        "texto": "¿Qué recursos de apoyo académico ofrece Certus?",
+        "respuesta": "Certus ofrece tutorías, bibliotecas y otros recursos para apoyar a los estudiantes."
+      },
+      {
+        "texto": "¿Cuál es el enfoque pedagógico de Certus?",
+        "respuesta": "El enfoque pedagógico puede variar, pero se centra en el aprendizaje práctico y aplicado."
+      },
+      {
+        "texto": "¿Hay oportunidades de pasantías o prácticas en Certus?",
+        "respuesta": "Sí, Certus suele ofrecer oportunidades de pasantías o prácticas para los estudiantes."
+      },
+      {
+        "texto": "¿Cuáles son las opciones de financiamiento para estudiar en Certus?",
+        "respuesta": "Puedes obtener información sobre opciones de financiamiento en la institución."
+      },
+      {
+        "texto": "¿Cuáles son los horarios de clases en Certus?",
+        "respuesta": "Los horarios de clases pueden variar según el programa y la sede."
+      }
+    ]
+}
+
+  
